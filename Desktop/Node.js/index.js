@@ -1,5 +1,5 @@
 //tenary operation
-if(a>b){
+if(a>b){ède
     console.log(a>b)
 }else{
     console.log(a<b)
